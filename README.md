@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hello World!👋I am Sanika</h1>
 <h3 align="center">Software Engineer | Product Development & Management | Data Engineering & AI Enthusiast | Automation</h3>
 
 ---
