@@ -43,6 +43,7 @@ I'm a passionate technologist building systems that bridge operations, analytics
 | Careerly:AI Based Career Guidance System | ML,Python,HTML,CSS,JS,MySQL    | ✅ COMPLETED   | AI-driven career recommendation website for engineering graduates, building KNN ML model with over 95% accuracy.
 | Loan Eligibility & Prediction model      | ML,Python,HTML,CSS,JS          | ✅ COMPLETED   | Predicts loan approval chances using applicant data via trained ML model, ensuring faster lending decisions.
 | System Change Tracker Bot                | Flask, Pandas, HTML, CSS, JS   | ✅ COMPLETED   | Bot that simplifies release/change tracking using CRQ numbers and timelines, powered by Flask + Pandas.|
+| Caring Intelligent Assistant             | HTML, CSS, JS, MySQL, PHP      | ✅ COMPLETED   | Menu-driven, rule-based chatbot offering health guidance,diet recommendations & quick health tips.|
 | AI Knowledge Transfer Engine             | React, Node.js, NLP, MongoDB   | 🟡 IN PROGRESS | Smart engine that reads Word/PPT/Excel KT docs and generates personalized learning paths with quizzes and modules.|
 | Incident Metrics Analyzer                | Python, Pandas, Matplotlib     | 🟡 IN PROGRESS | Tool that reads monthly ops data and transforms it into interactive metrics & graphs for insights.|
 | SDLC AI Automation Framework             | Python, GPT APIs, Automation   | 🧠 RESEARCH    | Modular AI framework that automates documentation, status reporting, and compliance across SDLC stages.|
