@@ -46,7 +46,7 @@ I'm a passionate technologist building systems that bridge operations, analytics
 | AI Knowledge Transfer Engine             | React, Node.js, NLP, MongoDB   | 🟡 IN PROGRESS | Smart engine that reads Word/PPT/Excel KT docs and generates personalized learning paths with quizzes and modules.|
 | Incident Metrics Analyzer                | Python, Pandas, Matplotlib     | 🟡 IN PROGRESS | Tool that reads monthly ops data and transforms it into interactive metrics & graphs for insights.|
 | SDLC AI Automation Framework             | Python, GPT APIs, Automation   | 🧠 RESEARCH    | Modular AI framework that automates documentation, status reporting, and compliance across SDLC stages.|
-| DataOps Pipeline Engine                  | Python, Bash, Pandas, Airflow  | 🧠 RESEARCH    | End-to-end pipeline setup for ingesting, transforming, and analyzing ops data across departments.|
+| Incidents Data Pipeline Engine           | Python, Bash, Pandas, Airflow  | 🧠 RESEARCH    | End-to-end pipeline setup for ingesting, transforming, and analyzing INC data across various banking apps.|
 | Flutter App Snippets                     | Flutter, Dart                  | 🛠️ BUILDING    | Fast, elegant mini-projects in Flutter designed to show practical mobile capabilities.|
 
 
