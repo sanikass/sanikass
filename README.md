@@ -65,7 +65,7 @@ I'm a passionate technologist building systems that bridge business, analytics, 
 
 ## 🌱 Currently Building
 
-- ⚙️ Smart automation tools for ops and analytics  
+- ⚙️ Smart automation tools leveraging analytics  
 - 🧠 NLP-powered engines for document understanding  
 - 🏗️ Scalable data pipelines for real-time + batch processing  
 - 📱 Beautiful Flutter UIs with practical use cases  
