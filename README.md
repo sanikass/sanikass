@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate technologist building systems that bridge business, analytics, and AI. Whether it's automating manual chaos, architecting data pipelines, or designing clean UIs — I focus on creating tools that **translate complexity into clarity through intelligent engineering. I do not sprint to code — I architect thoughtfully, research deeply, and ship confidently."**
+I'm a passionate technologist building systems that bridge business, analytics, and AI. Whether it's automating manual chaos, architecting data pipelines, or designing clean UIs — I focus on creating tools that **translate complexity into clarity through intelligent engineering. "I do not sprint to code — I architect thoughtfully, research deeply, and ship confidently."**
 
 ---
 
